@@ -1,4 +1,4 @@
-const { defineConfig } = require("Cypress");
+const { defineConfig } = require("cypress");
 const browserify = require("@cypress/browserify-preprocessor");
 const {
   addCucumberPreprocessorPlugin,
